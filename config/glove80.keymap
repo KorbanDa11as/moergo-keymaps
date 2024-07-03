@@ -56,8 +56,6 @@ endif {
     };
 };
 
-&lt { flavor = "balanced"; };
-
 / {
     macros {
         rgb_ug_status_macro: rgb_ug_status_macro {
