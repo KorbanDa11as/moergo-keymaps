@@ -34,9 +34,9 @@
 
 #define LAYER_Lower 0
 
-#
+#endif
 
-endif {
+ {
     /* Custom Device-tree */
     /* Glove80 system behavior & macros */
 
@@ -55,6 +55,8 @@ endif {
         };
     };
 };
+
+
 
 / {
     macros {
